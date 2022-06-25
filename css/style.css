@@ -5,3 +5,11 @@
     object-position: 10% 40%;
     overflow: hidden;
 }
+
+.btn{
+    transition: 0.3s;
+}
+
+.btn:hover{
+    transform: scale(1.1);
+}
