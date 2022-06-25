@@ -12,4 +12,12 @@
 
 .btn:hover{
     transform: scale(1.1);
-}   
+} 
+
+.nav-link{
+    border-radius: 15px;
+}
+
+.nav-link:hover{
+    background: #8c8c8c;
+}
