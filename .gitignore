@@ -1,3 +1,3 @@
 #Ignore only commits.txt file
 commits.txt
-#deployment.sh
+*.sh
